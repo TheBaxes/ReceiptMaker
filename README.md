@@ -1,0 +1,2 @@
+# ReceiptMaker
+Class project
